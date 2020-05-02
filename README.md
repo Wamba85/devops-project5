@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Wamba85](https://circleci.com/gh/Wamba85/devops-project5.svg?style=svg)](https://app.circleci.com/pipelines/github/Wamba85/devops-project5)
 
 ## Project Overview
 
